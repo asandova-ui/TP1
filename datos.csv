@@ -1,0 +1,64 @@
+Semana,Fecha de Inicio,Fecha de Fin,Actividad
+1,2025-09-16,2025-09-22,Especificación del proyecto: Definición de objetivos
+2,2025-09-23,2025-09-29,Especificación del proyecto: Estudio sistema
+3,2025-09-30,2025-10-06,Diseño electrónico y captura esquemática: Búsqueda de componentes
+3,2025-09-30,2025-10-06,Diseño electrónico y captura esquemática: Posicionado componentes
+3,2025-09-30,2025-10-06,Diseño electrónico y captura esquemática: Creación de nuevos componentes
+3,2025-09-30,2025-10-06,Diseño electrónico y captura esquemática: Documentación esquemático. Control de cambios
+3,2025-09-30,2025-10-06,Diseño electrónico y captura esquemática: Análisis consumo eléctrico
+3,2025-09-30,2025-10-06,Diseño electrónico y captura esquemática: Análisis disipación de potencia
+3,2025-09-30,2025-10-06,Diseño electrónico y captura esquemática: Rutado de conexiones
+3,2025-09-30,2025-10-06,Diseño electrónico y captura esquemática: Generación de listado de materiales (BOM)
+4,2025-10-07,2025-10-13,Diseño electrónico y captura esquemática: Búsqueda de componentes
+4,2025-10-07,2025-10-13,Diseño electrónico y captura esquemática: Posicionado componentes
+4,2025-10-07,2025-10-13,Diseño electrónico y captura esquemática: Creación de nuevos componentes
+4,2025-10-07,2025-10-13,Diseño electrónico y captura esquemática: Documentación esquemático. Control de cambios
+4,2025-10-07,2025-10-13,Diseño electrónico y captura esquemática: Análisis consumo eléctrico
+4,2025-10-07,2025-10-13,Diseño electrónico y captura esquemática: Análisis disipación de potencia
+4,2025-10-07,2025-10-13,Diseño electrónico y captura esquemática: Rutado de conexiones
+4,2025-10-07,2025-10-13,Diseño electrónico y captura esquemática: Generación de listado de materiales (BOM)
+5,2025-10-14,2025-10-20,Diseño de la placa de circuito impreso: Creación de huellas de nuevos componentes
+5,2025-10-14,2025-10-20,Diseño de la placa de circuito impreso: Posicionado de componentes
+5,2025-10-14,2025-10-20,Diseño de la placa de circuito impreso: Definición de borde y zonas de conectores
+5,2025-10-14,2025-10-20,Diseño de la placa de circuito impreso: Rutado de conexiones
+5,2025-10-14,2025-10-20,Diseño de la placa de circuito impreso: Planos de disipación térmica
+5,2025-10-14,2025-10-20,Diseño de la placa de circuito impreso: Planos de masa y otros
+5,2025-10-14,2025-10-20,Diseño de la placa de circuito impreso: Documentación: serigrafía. Control de cambios
+5,2025-10-14,2025-10-20,Diseño de la placa de circuito impreso: Documentación: acotaciones geométricas
+5,2025-10-14,2025-10-20,Diseño de la placa de circuito impreso: Generación de ficheros para el fabricante (gerber)
+6,2025-10-21,2025-10-27,Diseño de la placa de circuito impreso: Creación de huellas de nuevos componentes
+6,2025-10-21,2025-10-27,Diseño de la placa de circuito impreso: Posicionado de componentes
+6,2025-10-21,2025-10-27,Diseño de la placa de circuito impreso: Definición de borde y zonas de conectores
+6,2025-10-21,2025-10-27,Diseño de la placa de circuito impreso: Rutado de conexiones
+6,2025-10-21,2025-10-27,Diseño de la placa de circuito impreso: Planos de disipación térmica
+6,2025-10-21,2025-10-27,Diseño de la placa de circuito impreso: Planos de masa y otros
+6,2025-10-21,2025-10-27,Diseño de la placa de circuito impreso: Documentación: serigrafía. Control de cambios
+6,2025-10-21,2025-10-27,Diseño de la placa de circuito impreso: Documentación: acotaciones geométricas
+6,2025-10-21,2025-10-27,Diseño de la placa de circuito impreso: Generación de ficheros para el fabricante (gerber)
+7,2025-10-28,2025-11-03,Fabricación de la placa de circuito impreso: Envío al fabricante
+7,2025-10-28,2025-11-03,Fabricación de la placa de circuito impreso: Recepción y revisión
+7,2025-10-28,2025-11-03,Fabricación de la placa de circuito impreso: Montaje de componentes
+8,2025-11-04,2025-11-10,Fabricación de la placa de circuito impreso: Envío al fabricante
+8,2025-11-04,2025-11-10,Fabricación de la placa de circuito impreso: Recepción y revisión
+8,2025-11-04,2025-11-10,Fabricación de la placa de circuito impreso: Montaje de componentes
+9,2025-11-11,2025-11-17,Realización Firmware (uC/FPGA). Simulación y depuración: Control de elementos hardware: drivers
+9,2025-11-11,2025-11-17,Realización Firmware (uC/FPGA). Simulación y depuración: Verificación
+9,2025-11-11,2025-11-17,Realización Firmware (uC/FPGA). Simulación y depuración: Programa principal. Especificaciones
+9,2025-11-11,2025-11-17,Realización Firmware (uC/FPGA). Simulación y depuración: Documentación firmware. Control de cambios
+10,2025-11-18,2025-11-24,Realización Firmware (uC/FPGA). Simulación y depuración: Control de elementos hardware: drivers
+10,2025-11-18,2025-11-24,Realización Firmware (uC/FPGA). Simulación y depuración: Verificación
+10,2025-11-18,2025-11-24,Realización Firmware (uC/FPGA). Simulación y depuración: Programa principal. Especificaciones
+10,2025-11-18,2025-11-24,Realización Firmware (uC/FPGA). Simulación y depuración: Documentación firmware. Control de cambios
+11,2025-11-25,2025-12-01,Verificación hardware: Verificación inicial
+11,2025-11-25,2025-12-01,Verificación hardware: Verificación firmware
+11,2025-11-25,2025-12-01,Verificación hardware: Resolución de problemas
+11,2025-11-25,2025-12-01,Verificación hardware: Análisis de prestaciones
+11,2025-11-25,2025-12-01,Verificación hardware: Montaje final. Piezas mecánicas
+12,2025-12-02,2025-12-08,Verificación hardware: Verificación inicial
+12,2025-12-02,2025-12-08,Verificación hardware: Verificación firmware
+12,2025-12-02,2025-12-08,Verificación hardware: Resolución de problemas
+12,2025-12-02,2025-12-08,Verificación hardware: Análisis de prestaciones
+12,2025-12-02,2025-12-08,Verificación hardware: Montaje final. Piezas mecánicas
+13,2025-12-09,2025-12-15,, 
+14,2025-12-16,2025-12-22,,
+

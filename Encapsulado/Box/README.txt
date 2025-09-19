@@ -1,0 +1,4 @@
+Fortnite Supply Drop by Stallion12 on Thingiverse: https://www.thingiverse.com/thing:2837595
+
+Summary:
+This is a fortnite supply drop. It was designed on tinkercad. If you like the model or if you have any questions, feel free to comment and I will do my best to respond. The Fixed models, when printed will snap together but are hard to take apart. If you print the "Loose" lid it will not be a tight fit but you can take it on and off. Printing:Print both pieces with no supportI found that if you make the shells 2 then you don't need infillAdded build plate adhesion is not necessary due to the large base to model size ratio

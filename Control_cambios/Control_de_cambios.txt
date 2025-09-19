@@ -1,0 +1,3 @@
+Fecha,Parte,Tipo de tarea,Usuario,Tiempo (h),Tarea realizada
+18/09/2025,Hardware,Añadido,Luis Fran,2,Inicio PCB Verde
+18/09/2025,Hardware,Añadido,Luis Fran,0.5,Diagrama Gannt
