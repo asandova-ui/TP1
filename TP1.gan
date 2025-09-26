@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2025-08-28" view-index="0" gantt-divider-location="453" resource-divider-location="355" version="3.3.3316" locale="es_ES">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2025-03-01" view-index="0" gantt-divider-location="452" resource-divider-location="300" version="3.3.3316" locale="es_ES">
     <description/>
-    <view zooming-state="default:2" id="gantt-chart">
-        <field id="tpd15" name="Notas" width="20" order="-1"/>
+    <view zooming-state="default:9" id="gantt-chart">
         <field id="tpd3" name="Nombre" width="257" order="0"/>
         <field id="tpd4" name="Fecha de inicio" width="97" order="1"/>
         <field id="tpd5" name="Fecha de fin" width="97" order="2"/>
+        <field id="tpd15" name="Notas" width="20" order="3"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="filter.dueTodayTasks" value="false"/>
         <option id="filter.overdueTasks" value="false"/>
         <option id="filter.inProgressTodayTasks" value="false"/>
     </view>
     <view id="resource-table">
-        <field id="0" name="Nombre" width="237" order="0"/>
-        <field id="1" name="Función" width="112" order="1"/>
+        <field id="0" name="Nombre" width="200" order="0"/>
+        <field id="1" name="Función" width="96" order="1"/>
     </view>
     <!-- -->
     <calendars>
