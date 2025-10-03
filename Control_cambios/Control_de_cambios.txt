@@ -1,3 +1,26 @@
 Fecha,Parte,Tipo de tarea,Usuario,Tiempo (h),Tarea realizada
-18/09/2025,Hardware,Añadido,Luis Fran,2,Inicio PCB Verde
-18/09/2025,Hardware,Añadido,Luis Fran,0.5,Diagrama Gannt
+
+19/09/2025,Documentación,Añadido,todos,1,Inicio Gantt
+19/09/2025,Hardware,Añadido,Alonso,0.5,Inicio PCB1
+19/09/2025,Documentación,Añadido,Iván,0.5,Fin Gannt
+
+23/09/2025,Hardware,Añadido,Andrés,1,Edición PCB1
+23/09/2025,Hardware,Añadido,Lucía,1,Edición PCB1
+23/09/2025,Hardware,Añadido,Iván,1,Inicio PCB0
+23/09/2025,Hardware,Añadido,Víctor,1,Inicio PCB2
+
+26/09/2025,Hardware,Añadido,Iván,1.5,Edición PCB0
+26/09/2025,Hardware,Añadido,Víctor,1.5,Edición PCB2
+26/09/2025,Hardware,Añadido,Alonso,1.5,Edición PCB1
+26/09/2025,Hardware,Añadido,Andrés,1,Inicio PCB3
+26/09/2025,Hardware,Añadido,Lucía,1,Edición PCB3
+
+30/09/2025,Hardware,Añadido,Iván,1,Fin PCB0
+30/09/2025,Hardware,Añadido,Alonso,1,Fin PCB1
+30/09/2025,Hardware,Añadido,Víctor,1,Fin PCB2
+30/09/2025,Documentación,Añadido,Lucía,1,Inicio BOM
+
+03/10/2025,Hardware,Añadido,Iván,0.5,Integración PCBs
+03/10/2025,Hardware,Añadido,Iván,0.5,Integración PCBs
+03/10/2025,Hardware,Añadido,Iván,0.5,Integración PCBs
+03/10/2025,Documentación,Añadido,Lucía,0.5,GitHub e Informe
