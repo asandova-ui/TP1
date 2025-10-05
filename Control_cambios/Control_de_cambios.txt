@@ -24,3 +24,5 @@ Fecha,Parte,Tipo de tarea,Usuario,Tiempo (h),Tarea realizada
 03/10/2025,Hardware,Añadido,Iván,0.5,Integración PCBs
 03/10/2025,Hardware,Añadido,Iván,0.5,Integración PCBs
 03/10/2025,Documentación,Añadido,Lucía,0.5,GitHub e Informe
+
+07/10/2025, Documentación, Añadido, Lucía, 0.5, BOM en proteus
