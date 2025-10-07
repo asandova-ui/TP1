@@ -1,28 +1,30 @@
-Fecha,Parte,Tipo de tarea,Usuario,Tiempo (h),Tarea realizada
+Fecha,Parte,Usuario,Tiempo(h),Tarea realizada
 
-19/09/2025,Documentación,Añadido,todos,1,Inicio Gantt
-19/09/2025,Hardware,Añadido,Alonso,0.5,Inicio PCB1
-19/09/2025,Documentación,Añadido,Iván,0.5,Fin Gannt
+19/09/2025,Documentación,todos,1,Inicio Gantt
+19/09/2025,Hardware,Alonso,0.5,Inicio PCB1
+19/09/2025,Documentación,Iván,0.5,Fin Gannt
 
-23/09/2025,Hardware,Añadido,Andrés,1,Edición PCB1
-23/09/2025,Hardware,Añadido,Lucía,1,Edición PCB1
-23/09/2025,Hardware,Añadido,Iván,1,Inicio PCB0
-23/09/2025,Hardware,Añadido,Víctor,1,Inicio PCB2
+23/09/2025,Hardware,Andrés,1,Edición PCB1
+23/09/2025,Hardware,Lucía,1,Edición PCB1
+23/09/2025,Hardware,Iván,1,Inicio PCB0
+23/09/2025,Hardware,Víctor,1,Inicio PCB2
 
-26/09/2025,Hardware,Añadido,Iván,1.5,Edición PCB0
-26/09/2025,Hardware,Añadido,Víctor,1.5,Edición PCB2
-26/09/2025,Hardware,Añadido,Alonso,1.5,Edición PCB1
-26/09/2025,Hardware,Añadido,Andrés,1,Inicio PCB3
-26/09/2025,Hardware,Añadido,Lucía,1,Edición PCB3
+26/09/2025,Hardware,Iván,1.5,Edición PCB0
+26/09/2025,Hardware,Víctor,1.5,Edición PCB2
+26/09/2025,Hardware,Alonso,1.5,Edición PCB1
+26/09/2025,Hardware,Andrés,1,Inicio PCB3
+26/09/2025,Hardware,Lucía,1,Edición PCB3
 
-30/09/2025,Hardware,Añadido,Iván,1,Fin PCB0
-30/09/2025,Hardware,Añadido,Alonso,1,Fin PCB1
-30/09/2025,Hardware,Añadido,Víctor,1,Fin PCB2
-30/09/2025,Documentación,Añadido,Lucía,1,Inicio BOM
+30/09/2025,Hardware,Iván,1,Fin PCB0
+30/09/2025,Hardware,Alonso,1,Fin PCB1
+30/09/2025,Hardware,Víctor,1,Fin PCB2
+30/09/2025,Documentación,Lucía,1,Inicio BOM
 
-03/10/2025,Hardware,Añadido,Iván,0.5,Integración PCBs
-03/10/2025,Hardware,Añadido,Iván,0.5,Integración PCBs
-03/10/2025,Hardware,Añadido,Iván,0.5,Integración PCBs
-03/10/2025,Documentación,Añadido,Lucía,0.5,GitHub e Informe
+03/10/2025,Hardware,Iván,0.5,Integración PCBs
+03/10/2025,Hardware,Alonso,0.5,Integración PCBs
+03/10/2025,Hardware,Víctor,0.5,Integración PCBs
+03/10/2025,Documentación,Lucía,0.5,GitHub e Informe
 
-07/10/2025, Documentación, Añadido, Lucía, 1, BOM completa
+07/10/2025,Documentación,Lucía,1,BOM completa
+07/10/2025,Hardware,Víctor,1,Huella PCB2
+07/10/2025,Documentación,grupo,0.5,Mejoras entrega
