@@ -35,3 +35,9 @@ Fecha,Parte,Usuario,Tiempo(h),Tarea realizada
 07/10/2025,Documentación,Lucía,1,BOM completa
 07/10/2025,Hardware,Víctor,1,Huella PCB2
 07/10/2025,Documentación,grupo,0.5,Mejoras entrega
+
+10/10/2025,Documentación,Lucía,2,BOM+esquemáticos+GANTT completos y actualizados
+10/10/2025,Hardware,Iván,2,Huella PCB0
+10/10/2025,Hardware,Alonso,2,Huella PCB1
+10/10/2025,Hardware,Víctor,2,Huella PCB2
+10/10/2025,Hardware,Andrés,2,Huella PCB3
