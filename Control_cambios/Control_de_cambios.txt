@@ -1,3 +1,10 @@
+CÓMPUTO DE HORAS POR MIEMBRO DEL EQUIPO:
+- Víctor:
+- Iván: 
+- Lucía: 
+- Andrés:
+- Lucía:
+
 Fecha,Parte,Usuario,Tiempo(h),Tarea realizada
 
 19/09/2025,Documentación,todos,1,Inicio Gantt
