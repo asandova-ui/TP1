@@ -1,8 +1,20 @@
+<<<<<<< HEAD
 # Writing all output to: C:\Users\Invitado(pass user)\Documents\TallerP1\Hardware\TP1_Template.log
+=======
+# Writing all output to: C:\Users\ivanh\Documents\GitHub\TP1\Hardware\TP1_Template.log
+>>>>>>> 932e8959f324bcb9044c60d27ac715195241cbcc
 set pad_wire_necking on
 bus diagonal
 fanout 5
 route 50
 clean 2
 route 50 16
+<<<<<<< HEAD
 Process stopped!
+=======
+clean 2
+filter 5
+recorner diagonal
+status_file
+
+>>>>>>> 932e8959f324bcb9044c60d27ac715195241cbcc
