@@ -41,3 +41,24 @@ Fecha,Parte,Usuario,Tiempo(h),Tarea realizada
 10/10/2025,Hardware,Alonso,2,Huella PCB1
 10/10/2025,Hardware,Víctor,2,Huella PCB2
 10/10/2025,Hardware,Andrés,2,Huella PCB3
+
+14/10/2025,Documentación,Lucía,2,esquemático
+14/10/2025,Hardware,Iván,1,Enrutado
+14/10/2025,Hardware,Alonso,1,Enrutado
+14/10/2025,Hardware,Víctor,1,Enrutado
+14/10/2025,Hardware,Andrés,1,Enrutado
+
+17/10/2025,Documentación,Lucía,1,Análisis eléctrico
+17/10/2025,Hardware,Iván,1,Huellas
+17/10/2025,Hardware,Alonso,1,Huellas
+17/10/2025,Hardware,Víctor,1,Huellas
+17/10/2025,Hardware,Andrés,1,Análisis eléctrico
+
+21/10/2025,Documentación,Lucía,2,BOM actualizada
+21/10/2025,Hardware,Víctor,2,Huellas
+21/10/2025,Hardware,Andrés,2,Análisis eléctrico
+
+24/10/2025,Documentación,Lucía,2,correcciones documentación
+24/10/2025,Hardware,Iván,2,Huella PCB1
+24/10/2025,Hardware,Víctor,2,Huella PCB2
+24/10/2025,Hardware,Andrés,2,Análisis térmico
