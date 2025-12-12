@@ -14,7 +14,7 @@ SEMANA --- ANDRÉS -- IVÁN -- LUCÍA -- VÍCTOR R. -- ALONSO --- TOTAL
   9          2        0        2         2           2         8           
  10.         2.       4.       4.        4.          4         18
  11          4        4        4         4           4         20
- 12
+ 12          4        6        4         4           4         22
  13
  14
  15
@@ -56,5 +56,9 @@ Semana 10 (24/11-30/11)
 - Normas y guía trabajo en laboratorio
 - Soldadura resistencias PCB2
 Semana 11 (01/12-07/12)
-- Soldadura PCB0 y PCB3
-- Modificación Siftware (UARTs)
+- Soldadura PCB2 y PCB3
+- Modificación Software (UARTs)
+Semana 12 (08/12-14/12)
+- Soldadura PCB2 y PCB3 (finalizado)
+- Test de las PCBs
+- Modificación Software (UARTs)
