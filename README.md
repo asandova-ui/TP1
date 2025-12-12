@@ -1,48 +1,115 @@
-📑 Archivos (+ memoria final)
-Planificación: Gantt + Progreso(horas/tareas)
-Hardware: Esquemático + Huellas + Gerber
-Documentación: BOMs + Consumos (eléctrico+térmico)
+***ESTRUCTURA DE DESCOMPOSICIÓN DEL PROYECTO***
+**Especificación del proyecto**
+Definición de objetivos  
+Estudio sistema  
 
+**Diseño electrónico y captura esquemática PCB0**
+Búsqueda de componentes  
+Posicionado componentes  
+Creación de nuevos componentes  
+Documentación esquemático. Control de cambios  
+Análisis consumo eléctrico  
+Análisis disipación de potencia  
+Rutado de conexiones  
+Generación de listado de materiales (BOM) 
 
-🗂️ Fases y hitos
+**Diseño electrónico y captura esquemática PCB1**
+Búsqueda de componentes  
+Posicionado componentes  
+Creación de nuevos componentes  
+Documentación esquemático. Control de cambios  
+Análisis consumo eléctrico  
+Análisis disipación de potencia  
+Rutado de conexiones  
+Generación de listado de materiales (BOM)  
 
-Fase 1 — Especificación del proyecto (2025-09-16 → 2025-09-29)
-Hito H1: Especificación aprobada (2025-09-29).
+**Diseño electrónico y captura esquemática PCB2**
+Búsqueda de componentes  
+Posicionado componentes  
+Creación de nuevos componentes  
+Documentación esquemático. Control de cambios  
+Análisis consumo eléctrico  
+Análisis disipación de potencia  
+Rutado de conexiones  
+Generación de listado de materiales (BOM)  
 
-Fase 2 — Diseño electrónico y captura esquemática (2025-09-30 → 2025-10-13)
-Hito H2: Esquemático congelado y BOM v1 (2025-10-13).
+**Diseño electrónico y captura esquemática PCB3**
+Búsqueda de componentes  
+Posicionado componentes  
+Creación de nuevos componentes  
+Documentación esquemático. Control de cambios  
+Análisis consumo eléctrico  
+Análisis disipación de potencia  
+Rutado de conexiones  
+Generación de listado de materiales (BOM)  
 
-Fase 3 — Diseño PCB (2025-10-14 → 2025-10-27)
-Hito H3: Gerbers v1 listos para fabricación (2025-10-27).
+**Diseño de la placa de circuito impreso PCB0**
+Creación de huellas de nuevos componentes  
+Posicionado de componentes  
+Definición de borde y zonas de conectores 
+Rutado de conexiones  
+Planos de disipación térmica  
+Planos de masa y otros  
+Documentación: serigrafía. Control de cambios 
+Documentación: acotaciones geométricas  
+Generación de ficheros para el fabricante (gerber)  
 
-Fase 4 — Fabricación y montaje (2025-10-28 → 2025-11-10)
-Hito H4: Placas recibidas y montadas (2025-11-10).
+**Diseño de la placa de circuito impreso PCB1**
+Creación de huellas de nuevos componentes  
+Posicionado de componentes  
+Definición de borde y zonas de conectores 
+Rutado de conexiones  
+Planos de disipación térmica  
+Planos de masa y otros  
+Documentación: serigrafía. Control de cambios 
+Documentación: acotaciones geométricas  
+Generación de ficheros para el fabricante (gerber)  
 
-Fase 5 — Firmware: simulación y depuración (2025-11-11 → 2025-11-24)
-Hito H5: Firmware MVP funcional en HW (2025-11-24).
+**Diseño de la placa de circuito impreso PCB2**
+Creación de huellas de nuevos componentes  
+Posicionado de componentes  
+Definición de borde y zonas de conectores 
+Rutado de conexiones  
+Planos de disipación térmica  
+Planos de masa y otros  
+Documentación: serigrafía. Control de cambios 
+Documentación: acotaciones geométricas  
+Generación de ficheros para el fabricante (gerber)  
 
-Fase 6 — Verificación hardware (2025-11-25 → 2025-12-08)
-Hito H6: Validación de prestaciones y montaje final (2025-12-08).
+**Diseño de la placa de circuito impreso PCB3**
+Creación de huellas de nuevos componentes  
+Posicionado de componentes  
+Definición de borde y zonas de conectores 
+Rutado de conexiones  
+Planos de disipación térmica  
+Planos de masa y otros  
+Documentación: serigrafía. Control de cambios 
+Documentación: acotaciones geométricas  
+Generación de ficheros para el fabricante (gerber)  
 
-Fase 7 — Reserva / Cierre (2025-12-09 → 2025-12-22)
-Hito H7: Cierre de proyecto y entrega final (2025-12-22).
+**Fabricación de la placa de circuito impreso**
+Envío al fabricante  
+Recepción y revisión  
+Montaje de componentes  
 
+**Realización Hardware FPGA**
+Core: LarVA. 
+Periféricos: UART0/1/2, SPI0/1, Temporizador, GPOut, GPIn,.. 
+Simulación. 
 
-📦 Entregables por fase
+**Realización Firmware. Simulación y depuración**
+Control de elementos hardware: drivers  
+Verificación  
+Programa principal. Especificaciones  
+Documentación firmware. Control de cambios  
 
-H1 — Especificación: Documento de requisitos, casos de uso, interfaces, criterios de aceptación.
+**Verificación hardware**
+Verificación inicial  
+Verificación firmware 
+Resolución de problemas  
+Análisis de prestaciones  
+Montaje final. Piezas mecánicas  
+Pruebas de campo 
 
-H2 — Esquemático + BOM: Esquemático revisado, librerías de símbolos, BOM v1 con alternativos.
-
-H3 — PCB lista para fabricación: Ficheros Gerber/ODB++, taladros (NC-Drill), pick&place, drawing de fabricación, revisión DFM.
-
-H4 — Lote de PCBs: Placas recibidas, informe de inspección (óptica/continuidad), placas montadas o lista para montaje.
-
-H5 — Firmware MVP: Drivers básicos, arranque, pruebas de IO, plan de pruebas y reporte.
-
-H6 — Validación: Informe de prestaciones (eléctrico/térmico), checklist de montaje final, manual breve de ensamblaje.
-
-H7 — Cierre: Dossier final, versión congelada de ficheros CAD/firmware, release etiquetada.
-
-
-
+**Documentación**
+Realización informe 
