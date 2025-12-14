@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Taller de Proyectos 1" company="Grupo 4" webLink="http://" view-date="2025-07-01" view-index="0" gantt-divider-location="368" resource-divider-location="300" version="3.3.3316" locale="es_ES">
+<?xml version="1.0" encoding="UTF-8"?><project name="Taller de Proyectos 1" company="Grupo 4" webLink="http://" view-date="2025-08-01" view-index="0" gantt-divider-location="317" resource-divider-location="300" version="3.3.3320" locale="es_ES">
     <description/>
     <view zooming-state="default:8" id="gantt-chart">
-        <field id="tpd3" name="Nombre" width="184" order="0"/>
-        <field id="tpd4" name="Fecha de inicio" width="83" order="1"/>
-        <field id="tpd5" name="Fecha de fin" width="84" order="2"/>
+        <field id="tpd3" name="Nombre" width="150" order="0"/>
+        <field id="tpd4" name="Fecha de inicio" width="75" order="1"/>
+        <field id="tpd5" name="Fecha de fin" width="76" order="2"/>
         <field id="tpd15" name="Notas" width="20" order="3"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="filter.dueTodayTasks" value="false"/>
@@ -197,41 +197,41 @@
         <task id="51" uid="04b2bea2f4fb4a75b6af0c0438c34942" name="Entrega 8" meeting="true" start="2025-11-07" duration="0" complete="100" expand="true"/>
         <task id="3" uid="fe56961e6f8840cdb18a3eb722e869c4" name="Fabricación de la placa de circuito impreso" meeting="false" start="2025-11-18" duration="21" complete="0" expand="false">
             <depend id="5" type="2" difference="0" hardness="Strong"/>
-            <depend id="33" type="2" difference="0" hardness="Strong"/>
             <task id="26" uid="d1d551d1571b4ce3ade2a2b7e1a9ecfb" name="Envío al fabricante" meeting="false" start="2025-11-18" duration="5" complete="0" expand="true"/>
             <task id="27" uid="bdb2f0a5bd3542dca5fa6ce668f22982" name="Recepción y Revisión" meeting="false" start="2025-11-28" duration="2" complete="0" expand="true"/>
             <task id="28" uid="7cbb1efc816044cbaa5358c7288a4ccc" name="Montaje de componentes" meeting="false" start="2025-12-02" duration="7" complete="0" expand="true"/>
         </task>
-        <task id="4" uid="7240ddf7235048f7930b4085973845b7" name="Realización Firmware (uC/FPGA). Simulación y depuración" meeting="false" start="2025-11-28" duration="14" complete="0" expand="false">
-            <depend id="5" type="2" difference="0" hardness="Strong"/>
-            <task id="29" uid="2ff8526d3ee04fffa00ad668b19b4ee0" name="Control de elementos hardware: drivers" meeting="false" start="2025-11-28" duration="3" complete="0" expand="true"/>
-            <task id="30" uid="21bcd079c29947179b6c86e58113b3fa" name="Verificación" meeting="false" start="2025-11-28" duration="3" complete="0" expand="true"/>
-            <task id="31" uid="a7b3e150e7e94031b24f562ac4cd078f" name="Programa inicial. Especificaciones" meeting="false" start="2025-12-02" duration="3" complete="0" expand="true"/>
-            <task id="32" uid="3d44489bfb7d485297a5b54540f2c054" name="Documentación firmware. Control de cambios" meeting="false" start="2025-12-09" duration="3" complete="0" expand="true"/>
-        </task>
         <task id="52" uid="f6d604a38ee14b98b24ea60351d616a8" name="Entrega 9" meeting="true" start="2025-11-21" duration="0" complete="0" expand="true"/>
         <task id="53" uid="6f9fedca147e4b118f2a6ec8cfaffe25" name="Entrega 10" meeting="true" start="2025-11-28" duration="0" complete="100" expand="true"/>
+        <task id="4" uid="7240ddf7235048f7930b4085973845b7" name="Realización Firmware (uC/FPGA). Simulación y depuración" meeting="false" start="2025-11-28" duration="43" complete="0" expand="false">
+            <task id="29" uid="2ff8526d3ee04fffa00ad668b19b4ee0" name="Control de elementos hardware: drivers" meeting="false" start="2025-11-28" duration="17" complete="0" expand="true"/>
+            <task id="30" uid="21bcd079c29947179b6c86e58113b3fa" name="Verificación" meeting="false" start="2025-12-16" duration="3" complete="0" expand="true"/>
+            <task id="31" uid="a7b3e150e7e94031b24f562ac4cd078f" name="Programa inicial. Especificaciones" meeting="false" start="2025-12-02" duration="17" complete="0" expand="true"/>
+            <task id="32" uid="3d44489bfb7d485297a5b54540f2c054" name="Documentación firmware. Control de cambios" meeting="false" start="2025-12-19" duration="22" complete="0" expand="true"/>
+        </task>
         <task id="54" uid="53cffed8e9304a1d937ad2ddd997772a" name="Entrega 11" meeting="true" start="2025-12-05" duration="0" complete="100" expand="true"/>
-        <task id="55" uid="ea05d0d079114e1b9b89cd4857909391" name="Entrega 12" meeting="true" start="2025-12-12" duration="0" complete="0" expand="true"/>
-        <task id="5" uid="91b59277b24e41bcb793ff41f60974c3" name="Verificación hardware" meeting="false" start="2025-12-12" duration="29" complete="0" expand="false">
-            <task id="33" uid="faad52de2ba345818bb359b6cb18e42b" name="Verificación inicial" meeting="false" start="2025-12-12" duration="4" complete="0" expand="true">
+        <task id="5" uid="91b59277b24e41bcb793ff41f60974c3" name="Verificación hardware" meeting="false" start="2025-12-09" duration="11" complete="0" expand="false">
+            <task id="33" uid="faad52de2ba345818bb359b6cb18e42b" name="Verificación inicial" meeting="false" start="2025-12-09" duration="1" complete="0" expand="true">
                 <depend id="34" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="34" uid="c32f8baedac94fa8a07b94417f8878a2" name="Verificación firmware" meeting="false" start="2025-12-10" duration="3" complete="0" expand="true">
                 <depend id="35" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="34" uid="c32f8baedac94fa8a07b94417f8878a2" name="Verificación firmware" meeting="false" start="2025-12-16" duration="3" complete="0" expand="true">
-                <depend id="35" type="2" difference="0" hardness="Strong"/>
+            <task id="35" uid="003b15d0103145df98269716ef6cf1f7" name="Resolución de problemas" meeting="false" start="2025-12-13" duration="3" complete="0" expand="true">
+                <depend id="36" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="35" uid="003b15d0103145df98269716ef6cf1f7" name="Resolución de problemas" meeting="false" start="2025-12-19" duration="3" complete="0" expand="true"/>
-            <task id="36" uid="7309ac04028d418898b1ec4e77e4622e" name="Análisis de prestaciones" meeting="false" start="2025-12-19" duration="3" complete="0" expand="true"/>
-            <task id="37" uid="4715a399eb1e4837bf21430f4ec12fb9" name="Montaje final. Piezas mecánicas" meeting="false" start="2026-01-09" duration="1" complete="0" expand="true"/>
+            <task id="36" uid="7309ac04028d418898b1ec4e77e4622e" name="Análisis de prestaciones" meeting="false" start="2025-12-16" duration="3" complete="0" expand="true">
+                <depend id="37" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="37" uid="4715a399eb1e4837bf21430f4ec12fb9" name="Montaje final. Piezas mecánicas" meeting="false" start="2025-12-19" duration="1" complete="0" expand="true"/>
         </task>
+        <task id="55" uid="ea05d0d079114e1b9b89cd4857909391" name="Entrega 12" meeting="true" start="2025-12-12" duration="0" complete="100" expand="true"/>
         <task id="56" uid="d500cb20073d4897a199c69ebfd48651" name="Entrega 13" meeting="true" start="2025-12-19" duration="0" complete="0" expand="true"/>
-        <task id="57" uid="fdfea186f5594f6181045629e012400f" name="Entrega 14" meeting="true" start="2026-01-16" duration="0" complete="0" expand="true"/>
-        <task id="58" uid="8d401e23a89049648b361691e1fa5b7a" name="Entrega 15" meeting="true" start="2026-01-21" duration="0" complete="0" expand="true"/>
-        <task id="38" uid="6263305b5cb54e81a9eb1d2f5b86d568" name="Documentación" meeting="false" start="2025-11-10" duration="60" complete="0" expand="false">
-            <task id="39" uid="c77c587eeda046d9bd9e103a545678a3" name="Realización informe" meeting="false" start="2025-11-10" duration="60" complete="0" expand="true"/>
+        <task id="38" uid="6263305b5cb54e81a9eb1d2f5b86d568" name="Documentación" meeting="false" start="2025-11-10" duration="70" complete="0" expand="false">
+            <task id="39" uid="c77c587eeda046d9bd9e103a545678a3" name="Realización informe" meeting="false" start="2025-11-10" duration="70" complete="0" expand="true"/>
         </task>
-        <task id="59" uid="7199a93f029f448c966aac0210e9bdae" name="Fecha Entrega Final" meeting="true" start="2026-02-06" duration="0" complete="0" priority="4" expand="true"/>
+        <task id="57" uid="fdfea186f5594f6181045629e012400f" name="Entrega 14" meeting="true" start="2026-01-16" duration="0" complete="0" expand="true"/>
+        <task id="59" uid="7199a93f029f448c966aac0210e9bdae" name="Fecha Entrega Final" meeting="true" start="2026-01-23" duration="0" complete="0" priority="4" expand="true"/>
     </tasks>
     <resources>
         <resource id="0" name="Alonso" function="Default:0" contacts="" phone=""/>
@@ -334,6 +334,7 @@
         <allocation task-id="52" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="53" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="54" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="55" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
         <allocation task-id="7" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="8" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
         <allocation task-id="0" resource-id="2" function="Default:0" responsible="false" load="100.0"/>
