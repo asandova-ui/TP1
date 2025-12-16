@@ -18,7 +18,7 @@ int main(void)
             case MINMEA_SENTENCE_GLL: {
 				struct minmea_sentence_gll frame;
 				if(minmea_parse_gll(&frame, line)){
-					printf(INDENT_SPACES "$xxGLL Latitude: %d \n  Longitude: %d \n UTC time: %d \n Status: %d\n",frame.latitude, frame.longitude,frame.time, frame.char
+					printf(INDENT_SPACES "$xxGLL Latitude: %d \n  Longitude: %d \n UTC time: %d \n Status: %d\n",frame.latitude, frame.longitude,frame.time, frame.status);
 				}
 				else {
                     printf(INDENT_SPACES "$xxGST sentence is not parsed\n");
