@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Taller de Proyectos 1" company="Grupo 4" webLink="http://" view-date="2025-08-01" view-index="0" gantt-divider-location="317" resource-divider-location="300" version="3.3.3320" locale="es_ES">
+<?xml version="1.0" encoding="UTF-8"?><project name="Taller de Proyectos 1" company="Grupo 4" webLink="http://" view-date="2025-08-01" view-index="0" gantt-divider-location="301" resource-divider-location="300" version="3.3.3320" locale="es_ES">
     <description/>
     <view zooming-state="default:8" id="gantt-chart">
-        <field id="tpd3" name="Nombre" width="150" order="0"/>
-        <field id="tpd4" name="Fecha de inicio" width="75" order="1"/>
-        <field id="tpd5" name="Fecha de fin" width="76" order="2"/>
+        <field id="tpd3" name="Nombre" width="142" order="0"/>
+        <field id="tpd4" name="Fecha de inicio" width="71" order="1"/>
+        <field id="tpd5" name="Fecha de fin" width="72" order="2"/>
         <field id="tpd15" name="Notas" width="20" order="3"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="filter.dueTodayTasks" value="false"/>
@@ -12,8 +12,8 @@
         <option id="color.recent"><![CDATA[#9966ff #cccc00 #ff6666 #00cc66 #cc99ff #ccccff #cc9900 #cc0033 #ffff00 #ffccff]]></option>
     </view>
     <view id="resource-table">
-        <field id="0" name="Nombre" width="205" order="0"/>
-        <field id="1" name="Función" width="89" order="1"/>
+        <field id="0" name="Nombre" width="194" order="0"/>
+        <field id="1" name="Función" width="85" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -203,7 +203,12 @@
         </task>
         <task id="52" uid="f6d604a38ee14b98b24ea60351d616a8" name="Entrega 9" meeting="true" start="2025-11-21" duration="0" complete="0" expand="true"/>
         <task id="53" uid="6f9fedca147e4b118f2a6ec8cfaffe25" name="Entrega 10" meeting="true" start="2025-11-28" duration="0" complete="100" expand="true"/>
-        <task id="4" uid="7240ddf7235048f7930b4085973845b7" name="Realización Firmware (uC/FPGA). Simulación y depuración" meeting="false" start="2025-11-28" duration="43" complete="0" expand="false">
+        <task id="194" uid="5febbaffc11c450d8c68a3a6e7ba86dc" name="Realización Hardware FPGA." color="#000000" meeting="false" start="2025-11-28" duration="21" complete="0" expand="false">
+            <task id="195" uid="ddbcf66a6791454f89322da0036564f0" name="Core: LarVa" color="#cc99ff" meeting="false" start="2025-11-28" duration="17" complete="0" expand="true"/>
+            <task id="196" uid="a90b3e3e0700451cbcb9f050b68e3e85" name="Periféricos: UART0/1/2, SPI0/1, Temporizador, GPOut, GPIn" color="#cc99ff" meeting="false" start="2025-12-16" duration="3" complete="0" expand="true"/>
+            <task id="197" uid="3cc11d67cdb9420398371ff229ae6a5e" name="Simulación" color="#cc99ff" meeting="false" start="2025-12-02" duration="17" complete="0" expand="true"/>
+        </task>
+        <task id="4" uid="7240ddf7235048f7930b4085973845b7" name="Realización Firmware. Simulación y depuración" meeting="false" start="2025-11-28" duration="43" complete="0" expand="false">
             <task id="29" uid="2ff8526d3ee04fffa00ad668b19b4ee0" name="Control de elementos hardware: drivers" meeting="false" start="2025-11-28" duration="17" complete="0" expand="true"/>
             <task id="30" uid="21bcd079c29947179b6c86e58113b3fa" name="Verificación" meeting="false" start="2025-12-16" duration="3" complete="0" expand="true"/>
             <task id="31" uid="a7b3e150e7e94031b24f562ac4cd078f" name="Programa inicial. Especificaciones" meeting="false" start="2025-12-02" duration="17" complete="0" expand="true"/>
