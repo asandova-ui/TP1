@@ -139,7 +139,7 @@ uint32_t BME_gethumidity(){
 	union partX par_h7;
 	union part_adc hum_adc;
 	
-	par_h1.parts.bytelow=BME_read(0x);
+	par_h1.parts.bytelow=(BME_read(0xE2)<<4)>>4;
 	par_h1.parts.bytehigh=BME_read(0x8F);
 	par_h2.parts.bytelow=BME_read(0xE4);
 	par_h2.parts.bytehigh=BME_read(0xE5);
